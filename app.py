@@ -6,6 +6,7 @@ Aplicación Streamlit para análisis y visualización de datos de abandono de cl
 en instituciones bancarias.
 
 Autor: Universidad CASA GRANDE
+IVETTE ROJAS, GEO COBOS, RENÉ LARA
 Versión: 1.0.0
 """
 
